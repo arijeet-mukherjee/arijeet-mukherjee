@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://arijeetdev.vercel.app/](https://arijeetdev.vercel.app/)
+- 👨‍💻 All of my projects are available at [arijeetdev](https://arijeetdev.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/arijeet-mukherjee-22a59a126/](https://www.linkedin.com/in/arijeet-mukherjee-22a59a126/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/arijeet-mukherjee-22a59a126/)
 
-- 💬 Ask me about **react, JavaScript, java, web development**
+- 💬 Ask me about **<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="20" height="20"/>**
 
 - 📫 How to reach me **ari123acess@gmail.com**
 
-- 📄 Know about my experiences [https://arijeetdev.vercel.app/](https://arijeetdev.vercel.app/)
+- 📄 Know about my experiences [Arijeet Resume](https://drive.google.com/file/d/1M9iOXbAntn0cLQ1jIgnOWDNsSfQwtLdm/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
@@ -38,5 +38,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmyari&theme=onedark" alt="emmyari" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmyari&theme=dark" alt="emmyari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmyari" alt="emmyari" /></a> </p>
 
