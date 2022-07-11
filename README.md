@@ -33,7 +33,7 @@
 
 [![Arijeet's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=emmyari&&theme=xcode)](https://github.com/emmyari)<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmyari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emmyari" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmyari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emmyari" /></p><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmyari&show_icons=true&locale=en&theme=dracula" alt="emmyari" /></p><br>
 
