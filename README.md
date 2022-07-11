@@ -35,9 +35,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emmyari&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="emmyari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmyari&show_icons=true&locale=en&theme=dracula" alt="emmyari" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emmyari&show_icons=true&locale=en&theme=dracula" alt="emmyari" /></p><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmyari&theme=onedark" alt="emmyari" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emmyari&theme=onedark" alt="emmyari" /></p><br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmyari" alt="emmyari" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emmyari" alt="emmyari" /></a> </p><br>
 
