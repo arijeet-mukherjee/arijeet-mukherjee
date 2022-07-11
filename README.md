@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🤚, I'm Arijeet Mukherjee</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img src="https://user-images.githubusercontent.com/39984190/178335884-31a07c45-402e-4e97-9e4d-a2c3605b7325.png" alt = "Arijeet"/>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emmyari&label=Profile%20views&color=0e75b6&style=flat" alt="emmyari" /> </p>
 
